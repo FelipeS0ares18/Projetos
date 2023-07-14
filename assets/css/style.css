@@ -29,13 +29,13 @@ a {
   margin-left: 20%;
   margin-bottom: 20px;
   margin-top: 20px;
-  color: #7F1734;
+  color: #0D214f;
 }
 
 a:hover {
   color: var(--amarelo);
   text-decoration: none;
-  color: #7F1734;
+  color: #0D214f;
   
 }
 
@@ -43,11 +43,11 @@ h2{
   text-align: center;
   justify-content: center;
   margin-bottom: 20px;
-  color: #7F1734;
+  color: #0D214f;
 }
 
 p{
-  color: #7F1734;
+  color: #0D214f;
   font-size: 20px;
 }
 
@@ -59,7 +59,7 @@ h6 {
   font-family: "Raleway", sans-serif;
   color: var(--amarelo);
   margin-left: 20%;
-  color: #7F1734;
+  color: #0D214f;
 }
 
 
@@ -81,7 +81,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #7F1734;
+  color: #0D214f;
 }
 
 .section-title h2::before {
